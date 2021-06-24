@@ -1,7 +1,7 @@
 # labrabota10-gr1-adam_bez_evy
 labrabota10-gr1-adam_bez_evy created by GitHub Classroom
 
-Project Name: ADAM_bez_Evy.
+Project Name: ADAM Booking.
 
 Description: Приложение позволяет пользователю забронировать номер в отеле в 6 различных городах Белариси и России.
 Функционал приложения включает регистрацию и последующий вход в систему, работу с базой данных, бронирование номера на определнную дату и количество ночей.
